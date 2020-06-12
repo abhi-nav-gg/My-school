@@ -1,7 +1,7 @@
 
 
 h1{
-    color:white;
+    color:#ffffff;
     text-align: center;
 }
 h2 {
@@ -16,7 +16,7 @@ h2 {
     
 }
 .header {
-    background-color: purple;
+    background-color: #800080;
 }
 .grid{
     display: flex;
